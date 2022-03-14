@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE7dE40A63A7f243d0dd5AFb943dF377148E998CB",
+  "SCAN_LINK": "https://etherscan.io/address/0xE7dE40A63A7f243d0dd5AFb943dF377148E998CB",
+  "NETWORK": {
+    "NAME": "Etherum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "SHE_Project_NFT",
+  "SYMBOL": "SHE",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/she-project-nft",
+  "SHOW_BACKGROUND": true
+}
